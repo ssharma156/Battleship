@@ -40,3 +40,5 @@ public class DotCom extends DotComMaster{
     System.out.println("[INFO] You took " + numberOfGuesses + " guesses.");
   }
 }
+
+// Adding a new comment
